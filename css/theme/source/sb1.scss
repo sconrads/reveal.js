@@ -14,19 +14,19 @@
 
 
 // Override theme settings (see ../template/settings.scss)
-$backgroundColor: #002776;
+$backgroundColor: #fff;
 
-$mainColor: #fff;
-$headingColor: #fff;
+$mainColor: #000;
+$headingColor: #002776;
 
 $mainFontSize: 42px;
-$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
-$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
+$mainFont: 'Museo Sans Pro', Helvetica, sans-serif;
+$headingFont: 'Museo Sans Pro', Helvetica, sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
 $headingFontWeight: 600;
-$linkColor: #42affa;
+$linkColor: #0071CD;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
 
