@@ -1,9 +1,9 @@
 ### Hva har skjedd i bransjen?
 
-* Nye aktører
-* Betalingstjenestedirektivet
-* Utvikling i finansnæringen
-* Leveransetakt
+* Nye aktører  <!-- .element: class="fragment fade-in" -->
+* Betalingstjenestedirektivet <!-- .element: class="fragment fade-in" -->
+* Utvikling i finansnæringen <!-- .element: class="fragment fade-in" -->
+* Leveransetakt <!-- .element: class="fragment fade-in" -->
 
 notes:
 ###### Anders:
