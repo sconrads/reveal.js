@@ -1,7 +1,5 @@
 ### Fellesarena
 
-* Arkitektmøtet for ikke arkitekter
-* Workshop-basert arkitektur
 
 
 notes:
