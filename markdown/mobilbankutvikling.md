@@ -1,4 +1,17 @@
-### Underpunkt: Mobilbankutvikling
+### Mobilbankutvikling
+
+
+
+
+notes:
+###### Stian:
+
+De fleste kundene våre bruker helst mobilbanken. De forventer å kunne gjøre det alt også på mobil. Da blir det tullete å lage funksjonalitet som kun virker på stor flate på en PC. Vi så samtidig at vi ikke kunne ha ett team som skulle implementere all ny funksjonalitet på mobil. Den jobben måtte distribueres ut i teamene. 
+Det er jo egentlig opplagt, men det er likefullt veldig skummelt når man sitter med en av verdens beste mobilbanker. Ja, det er ikke bare skryt, dere kan sjekke App Store :)
+Vi valgte derfor å etablere et nytt team som fikk i oppgave å gjøre de andre teamene supre på mobilbankutvikling. Det har fungert over all forventing. Mobilbanken har faktisk blitt ratet enda bedre på App Store nå. Og vi kan nå utvikle alt med fokus på mobil først. 
+
+
+###### Opprinnelige notater:
 
 Mobilbankutvikliingen er nå distribuert ut i de enkelte domeneteamene. Teamene lager nå responsive løsninger med mobil flate som første prioritet. Reisen hit har vært spennende og krevende. 
 
@@ -7,15 +20,6 @@ Mye læring
 Se slides fra Kristoffer og Jostein
 
 
-
-notes:
-###### Stian:
-
-Se tekst på forrige slide
-
-
-
-###### Opprinnelige notater:
 Mobilbank har overtatt som den prefererte kanalen til våre kunder (vis graf fra allmøte 01.06.18).
 
 Alle team må være i stand til å levere innhold til Mobilbanken. Vi har derfor et team som er eksperter på Mobilbankutvikling og gjør de andre teamene i stand til å kunne levere sider som fungerer best på mobil, men også bra på store flater. 

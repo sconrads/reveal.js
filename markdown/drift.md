@@ -1,13 +1,6 @@
-### Underpunkt: Drift
+### Drift
 
-Drift måtte fristilles fra repetitive standardoppgaver.
-Vi fikk begrensninger fra Drift knyttet til antall applikasjoner vi kunne ha og når disse kunne produksjonssettes.
 
-#### Tiltak:
-* Automatiserte produksjonssettingen og ga teamene ansvar for å utføre produkjonssetting selv 
-  * OpenShift
-  * Rundeck
-  * Avstand, organisering
 
 notes:
 ###### Stian:
@@ -25,6 +18,16 @@ Alt er midlertidig, og det gjelder nok også for Optimus. Jeg tror det viktig at
 
 
 ###### Opprinnelige notater:
+Drift måtte fristilles fra repetitive standardoppgaver.
+Vi fikk begrensninger fra Drift knyttet til antall applikasjoner vi kunne ha og når disse kunne produksjonssettes.
+
+#### Tiltak:
+* Automatiserte produksjonssettingen og ga teamene ansvar for å utføre produkjonssetting selv 
+  * OpenShift
+  * Rundeck
+  * Avstand, organisering
+
+
 * OpenShift
 * Tilganger
 * Kultur
