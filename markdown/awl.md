@@ -1,9 +1,5 @@
 ### AWL
 
-* workshops ønsker
-* boot
-* templatebasert til api
-* industristandarder
 
 
 notes:
@@ -26,6 +22,11 @@ Personlig tror jeg dette er siste gang vi lager en felles applikasjonsarkitektur
 
 
 ###### Opprinnelige notater:
+
+* workshops ønsker
+* boot
+* templatebasert til api
+* industristandarder
 
 * Jobbet frem en ny arkitektur
   * Workshops
