@@ -18,5 +18,5 @@ kunnet utfase og migrere skjermbildene i den rekkefølgen de har ønsket. Det be
 har **prioritert ny funksjonalitet høyere**
 
 Ulempen er at det tar tid, og **verden venter ikke på oss**! Og når vi da også velger å prøve å holde følge med verden,
-så sitter man igjen med en **lengre periode med blanding av ny og gammel teknologi**. Det er en ulempe på mange måter
- 
+så sitter man igjen med en **lengre periode med blanding av ny og gammel teknologi**. For oss har det vært en ulempe 
+på mange måter.
