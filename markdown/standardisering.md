@@ -12,7 +12,7 @@ Disse tingene ligger som **git-prosjekt** og vi har vært heldige å fått et mi
 
 Ofte diskuteres større forslag til forbedringer eller erfaringer som er gjort i **"Arkitektmøtet for ikke-arkitekter"**. 
 
-Vi tror at noen av suksessen her har vært at vi jobber i **inkrementelle steg, konsensusbasert og utviklerdrevet**. Vi har i noen år nå hatt et uttalt mål om **24 timer fra ide til produksjon, og 30 minutter fra ferdig kode til produksjon**, og at vi har det så tydelig har nok gjort det lettere å **stake ut retningen for bidrag, og få aksept for de større endringsbehovene** også hos andre deler av organisasjonen.
+Vi tror at noe av suksessen her har vært at vi jobber i **inkrementelle steg, konsensusbasert og utviklerdrevet**. Vi har i noen år nå hatt et uttalt mål om **24 timer fra ide til produksjon, og 30 minutter fra ferdig kode til produksjon**, og at vi har det så tydelig har nok gjort det lettere å **stake ut retningen for bidrag, og få aksept for de større endringsbehovene** også hos andre deler av organisasjonen.
 
 Dagens løsning var jo **rigget for å fase ut monolitten** vår, og det medførte jo et visst fokus. Vi er nå godt i gang med å prøve å løfte blikket litt og se fremover. Det vi ser er jo at verden rundt oss har tatt oss igjen på mange områder, og at for eksempel SpringBoot dekker veldig mye av det vi har forsøkt å løse selv. Det har vært en solid modning av åpen kildekode tredjepartsløsninger som vi nå kan dra nytte av i stedet for å bruke utviklingsressurser på å lage mye selv.
 
