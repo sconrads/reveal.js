@@ -17,7 +17,7 @@ Vi valgte derfor å etablere et nytt team som fikk i oppgave å gjøre de andre 
 
 ###### Opprinnelige notater:
 
-Mobilbankutvikliingen er nå distribuert ut i de enkelte domeneteamene. Teamene lager nå responsive løsninger med mobil flate som første prioritet. Reisen hit har vært spennende og krevende. 
+Mobilbankutviklingen er nå distribuert ut i de enkelte domeneteamene. Teamene lager nå responsive løsninger med mobil flate som første prioritet. Reisen hit har vært spennende og krevende. 
 
 Mye læring
 

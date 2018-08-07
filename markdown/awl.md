@@ -16,7 +16,7 @@ Da vi etablerte applikasjonsarkitekturen som overtok for monolitten, så valgte 
 Grunnen til det var at det skulle være enkelt å migrere eksisterende funksjonalitet. Det skulle ikke være nødvendig å skrive om alt. 
 Best beskrivende navn for denne applikasjonsarkitekturen er nok mikro-monolitt. 
 
-Når vi nå lager en ny appllikasjonsarkitektur kutter vi båndet til alle teknologier vi ikke ønsker å ta med oss videre. 
+Når vi nå lager en ny applikasjonsarkitektur kutter vi båndet til alle teknologier vi ikke ønsker å ta med oss videre. 
 For å slippe å lage og vedlikeholde en masse rammeverkskode, så har vi, som de fleste andre, valgt å basere oss på Spring Boot. Så kan man diskutere til man blir blå i ansiktet om det er lurt, men for oss ser det ut til å gjøre susen. Vi slipper å finne opp hjulet på nytt og utviklerne hos oss kjenner Boot. 
 
 Vi jobbet frem denne arkitekturen gjennom en del innledende workshops. Videre drar vi ut noen applikasjoner i produksjon for å validere arkitekturen. På sikt lager vi nok en templating mekanisme for å spy ut flere applikasjoner. 
