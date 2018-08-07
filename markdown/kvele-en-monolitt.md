@@ -1,9 +1,5 @@
 ### Kvelningen av monolitten
 
-* Litt etter litt
-* Tatt tid: Prioriteringer i teamene
-* Teknisk gjeld og kompleksitet: 4 frontendrammeverk
-
 
 notes:
 ###### Anders:
