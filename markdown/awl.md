@@ -1,4 +1,11 @@
-### AWL
+### Ny generasjon applikasjoner
+
+#### Erfaring:
+- Dagens applikasjoner er mikro-monolitter
+
+#### Tiltak:
+- Lag skyklare applikasjoner som kun støtter ønskede teknologier
+
 
 
 

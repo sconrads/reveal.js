@@ -1,7 +1,7 @@
 ### Workshopdrevet arkitektur
 
 #### Erfaring:
-- Det er vanskelig å få nødvendig bred forståelse ved innføring av ny arkitektur
+- Ikke alle forstod hvorfor vi ønsket å gå over til en distribuert arkitektur
 
 #### Tiltak:
 - Skap arkitekturen gjennom bruk av workshops

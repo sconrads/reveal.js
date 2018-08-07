@@ -1,5 +1,10 @@
 ### Drift
 
+#### Erfaring:
+- Mange nye applikasjoner skape mye arbeid for Drift
+
+#### Tiltak:
+- Drift måtte fristilles fra repetitive standardoppgaver
 
 
 notes:

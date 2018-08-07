@@ -1,5 +1,6 @@
 ### Optimus
 
+"Å hjelpe teamene til å levere godt."
 
 
 
