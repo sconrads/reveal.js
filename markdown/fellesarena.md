@@ -1,6 +1,6 @@
 ### Fellesarena
 
-
+Noe styring på tvers er nødvendig
 
 notes:
 ###### Stian:

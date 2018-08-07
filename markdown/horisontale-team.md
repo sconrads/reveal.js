@@ -1,6 +1,6 @@
 ### Horisontale team
 
-
+Men vi organiserer oss også rundt fag
 
 
 notes:

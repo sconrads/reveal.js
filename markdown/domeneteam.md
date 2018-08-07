@@ -1,6 +1,6 @@
 ### Domeneteam
 
-
+Vi organiserer oss rundt bankdomener
 
 
 notes:

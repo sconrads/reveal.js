@@ -1,6 +1,6 @@
 ### Effekter på leveransetakt
 
-
+Fra 30 til 230 utviklere
 
 notes:
 ###### Stian:
