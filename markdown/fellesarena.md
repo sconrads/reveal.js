@@ -6,6 +6,12 @@ notes:
 ###### Stian:
 
 Selv om vi etterhvert har ganske så autonome team og vi ønsker å utnytte Conways lov slik at vi ikke får tette koblinger mellom applikasjonen, har vi noen fellesarenaer:
+* Faggrupper
+    * Vi har selvfølgelig faggrupper. De spenner bredt og man kan være med i så mange grupper man ønsker. De er veldig løst organisert og velger selv hvordan de ønsker å jobbe. 
+    * En ting som har fungert veldig bra for oss er "brown bag lunsj". Vi tar med oss lunsjen og en eller flere som har gjort noe interessant innenfor et tema prater om dette
+    * Vi tester også ut at man får en dag i uken til å jobbe med f.eks maskinlæring. Den dagen kan man bruke på å ta kurs på Coursera.
+* Hackathon
+    * Gjennom hackathon får vi teste ut nye ting, og vi oppfordrer til at man jobber på tvers av team og disipliner. Nå skal vi prøve ut 2 dagers Hackathon. Og vi skal jobbe mye mer med å ta ideene videre etter hacktahonet.  
 * Arkitektmøtet
     * Litt flåsete kalles dette for arkitektmøtet for ikke arkitekter. Det virkelig ikke sant da alle uansett hva man jobber med er invitert, men møtet har nok fått det kallenavnet da vi er veldig hands-on og diskutrere konkretete problemstillinger. Og da er det jo alltid fint å sitte godt nedi koden.
     * Men tar diskusjonen av et tema eller problem mer enn 5 minutter, så ber kjører vi en workshop i stedet
