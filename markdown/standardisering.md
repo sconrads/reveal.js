@@ -1,12 +1,5 @@
 ### Felles standardisering
 
-* Økosystem
-* Utviklingsmiljø
-* BOB
-* Kontainere
-* AppShell
-
-
 
 notes:
 ###### Anders:
@@ -17,14 +10,13 @@ automatiseringen vi har gjort i ettertid har vært enklere. Når det er sagt så
 eksperimentere, og det blir gjort.
 
 Vi har helt siden starten hatt en **templatingmekanisme** for å lage og oppdatere applikasjonene våre, og vi har tilsvarende for selve **utviklingsmiljøet**.
-I tillegg nevnte vi vår venn **Bob** i 2015, og han lever i beste velgående i dag også. 
+I tillegg nevnte vi vår venn verktøykassa-**Bob** i 2015, og han lever i beste velgående i dag også, og er en samling script.
 
 Disse tingene ligger som **git-prosjekt** og vi har vært heldige å fått et miljø hvor mange av **utviklerne aktivt foreslår endringer** som er testet av enkeltpersoner eller team.
 Det er ingen team eller personer som eier disse fellesløsningene, men de er fordelt ut slik at noen har et **overordnet ansvar** for 
 at de fungerer og at det finnes en viss basiskompetanse på løsningen.
 
-Ofte diskuteres større forslag til forbedringer eller erfaringer som er gjort i **"Arkitektmøtet for ikke-arkitekter"**, som 
-er et åpent forum hvor man kan møtes en gang i uka. 
+Ofte diskuteres større forslag til forbedringer eller erfaringer som er gjort i **"Arkitektmøtet for ikke-arkitekter"**. 
 
 Vi tror at noen av suksessen her har vært at vi jobber i **inkrementelle steg, konsensusbasert og utviklerdrevet**. Vi har i 
 noen år nå hatt et uttalt mål om **24 timer fra ide til produksjon, og 30 minutter fra ferdig kode til produksjon**, og 
