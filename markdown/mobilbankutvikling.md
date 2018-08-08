@@ -10,9 +10,9 @@
 notes:
 ###### Stian:
 
-De fleste kundene våre bruker helst mobilbanken. De forventer å kunne gjøre alt også på mobil. Da blir det tullete å lage funksjonalitet som kun virker på stor flate på en PC. Vi så samtidig at vi ikke kunne ha ett team som skulle implementere all ny funksjonalitet på mobil. Den jobben måtte distribueres ut i teamene. 
-Det er jo egentlig opplagt, men det er likefullt veldig skummelt når man sitter med en veldig bra mobilbanker. 
-Vi valgte derfor å etablere et nytt team som fikk i oppgave å gjøre de andre teamene supre på mobilbankutvikling. Det har fungert over all forventing. Mobilbanken har faktisk blitt ratet enda bedre på App Store nå. Og vi kan nå utvikle alt med fokus på mobil først. 
+Vi hadde tidligere et team som gjorde all mobilbankutvikling. De fleste **kundene våre bruker helst mobilbanken**. De forventer å kunne gjøre alt også på mobil. Da blir det tullete å lage funksjonalitet som kun virker på stor flate på en PC. Vi så samtidig at vi ikke kunne ha ett team som skulle implementere all ny funksjonalitet på mobil. Den jobben måtte **distribueres ut i teamene**. 
+Det er jo egentlig opplagt, men det er likefullt veldig **skummelt** når man sitter med en veldig bra mobilbanker. 
+Vi valgte derfor å etablere et **nytt team** som fikk i oppgave å gjøre de andre teamene **supre på mobilbankutvikling**. Det har fungert over all forventing. Mobilbanken har faktisk blitt ratet enda bedre på App Store nå. Og vi kan nå utvikle alt med fokus på mobil først. 
 
 
 ###### Opprinnelige notater:
