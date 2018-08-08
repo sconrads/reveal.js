@@ -14,7 +14,7 @@ Hva skjer så når man får en haug med applikasjoner som skal i produksjon hele
 Jo, **Drift blir lei** av å kjøre yum install. 
 
 Ganske raskt etter at de første appene var på lufta, så vi at **Drift måtte fristilles fra repetive standardoppgaver**. 
-Vi satt da igang med å **automatisere** produksjonssettingen. Vi satt sammen utviklere og testere og laget en løsning på toppen av **RunDeck.** Teamene fikk da mulighet til å **selvbetjene installasjon** i alle miljøer inkludert produksjon. I dag så installeres de aller aller fleste leveransene av teamene selv. 
+Vi satt da igang med å **automatisere** produksjonssettingen. Vi satt sammen utviklere og driftere og laget en løsning på toppen av **RunDeck.** Teamene fikk da mulighet til å **selvbetjene installasjon** i alle miljøer inkludert produksjon. I dag så installeres de aller aller fleste leveransene av teamene selv. 
 
 Drift og utvikling **måles forskjellig**. Litt svart på hvitt, så vil utviklere lage **ny funksjonalitet**, mens Drift er opptatt av **stabile tjenester**. Som nevnt tidligere etablerte vi teamet **Optimus**. I dette teamet kan drift og utviking **lage løsninger sammen**, og på den måten fungere som en brobygger mellom disse to **kulturene**. Gjennom å jobbe sammen bygger vi også **tillit** og gjennom tillit kan utviklerene få mer tilganger. 
 
