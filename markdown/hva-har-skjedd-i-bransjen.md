@@ -11,6 +11,7 @@ Så; hva har egentlig skjedd siden sist?
 
 Disse utfordringene gjør at også vi må skjerpe oss; vi må kunne jobbe like **smidig som konkurrentene**, vi må forsøke å **innovere** selv og vi må være rigget for å kunne **svare raskt** på nye utfordringer. 
 
+###### Stian:
 Noe av det vi forsøker å svare opp med er **selvdrevne team** med variert kompetanse, å jobbe basert på **statistikk og innsikt** i kundeadferd, bygge kompetanse på **maskinlæring**, og ikke minst ha en **skalerbar plattform** med høy grad av **automatisering** i bunnen - det må vi om **leveransetakten** ikke skal være en hindring for oss.
 
 
