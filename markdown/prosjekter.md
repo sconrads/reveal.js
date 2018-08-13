@@ -2,9 +2,9 @@
 
 Prosjekter løses i teamene
 
+
 notes:
 ###### Stian:
-
 Større endringer kalles ofte **prosjekter**. Og hos oss som hos mange andre, ble slike prosjekter gjerne løst av en egen gjeng med utviklere. Deretter ble koden **levert til forvaltning**. Den modellen har vi ingen tro på. Teamene løser nå selv prosjektene. Prosjektene kan ofte brytes opp, og ny funksjonalitet kan **gradvis leveres til produksjon** fra dag en. Koden er med en gang i forvaltning og vi kan **lære av koden** vi allerede har levert. 
 
 ###### Anders:

@@ -1,9 +1,8 @@
-### Hva har skjedd i bransjen?
+### Hva har skjedd i finansbransjen?
 
 
 notes:
 ###### Anders:
-
 Så; hva har egentlig skjedd siden sist?
 * **FinTech** har blitt et begrep, og med det et mylder av nye aktører som vil ha en bit av kaka
 * **PSD2** - **“Betalingstjenestedirektivet”** fra EU som Norge også innfører via EØS-avtalen gjør at alle banker må åpne opp slik at tredjeparter kan gjennomføre blant annet betalinger
@@ -12,7 +11,7 @@ Så; hva har egentlig skjedd siden sist?
 Disse utfordringene gjør at også vi må skjerpe oss; vi må kunne jobbe like **smidig som konkurrentene**, vi må forsøke å **innovere** selv og vi må være rigget for å kunne **svare raskt** på nye utfordringer. 
 
 ###### Stian:
-Noe av det vi forsøker å svare opp med er **selvdrevne team** med variert kompetanse, å jobbe basert på **statistikk og innsikt** i kundeadferd, bygge kompetanse på **maskinlæring**, og ikke minst ha en **skalerbar plattform** med høy grad av **automatisering** i bunnen - det må vi om **leveransetakten** ikke skal være en hindring for oss.
+Noe av det vi forsøker å svare opp med er **selvdrevne team**, å jobbe basert på **statistikk og innsikt** i kundeadferd, bygge kompetanse på **maskinlæring**, og ikke minst ha en **skalerbar plattform** med høy grad av **automatisering** i bunnen - det må vi om **leveransetakten** ikke skal være en hindring for oss.
 
 
 ###### Opprinnelige notater:

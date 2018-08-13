@@ -3,7 +3,6 @@
 
 notes:
 ###### Anders:
-
 Nei, vi er ikke kvitt monolitten, men vi kunne vært det.
 
 Litt mer nyansert så kan vi si at vi er **kvitt den i store deler av nettbanken**, men i og med at vi har fått etablert selvdrevne team har **prioriteringene vært forskjellige i teamene**. Det er en balanse mellom 

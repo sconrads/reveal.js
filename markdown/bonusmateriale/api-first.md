@@ -7,6 +7,7 @@
 
 ![api-workshop](img/api-workshop.jpg)
 
+
 notes:
 * Hvorfor ikke bare lage APIer av alt vi lager?
 * Bruke APIene selv

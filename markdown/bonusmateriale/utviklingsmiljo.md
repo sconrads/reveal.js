@@ -4,6 +4,7 @@ Vår utviklingsplattform har flyttet seg fra en nedlåst Windows plattform til e
 For å komme dit har vi måttet kjempe mange kamper med andre deler av organisasjonen.
 Vi nevner Drift, Sikkerhet og supportavdelingen.
 
+
 notes:
 ###### Anders:
 

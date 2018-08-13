@@ -7,11 +7,8 @@
 - Lag skyklare applikasjoner som kun støtter ønskede teknologier
 
 
-
-
 notes:
 ###### Stian:
-
 Da vi etablerte applikasjonsarkitekturen som overtok for monolitten, så valgte vi å støtte **alle teknologiene** monolitten også støttet. Også de teknologier vi ikke ønsket. 
 Grunnen til det var at det skulle være **enkelt å migrere** eksisterende funksjonalitet. Det skulle ikke være nødvendig å skrive om alt. 
 Best beskrivende navn for denne applikasjonsarkitekturen er nok **mikro-monolitt**. 

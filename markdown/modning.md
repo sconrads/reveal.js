@@ -3,7 +3,6 @@
 
 notes:
 ###### Stian:
-
 Dagens løsning var jo **rigget for å fase ut monolitten** vår, og det medførte jo et visst fokus. Vi er nå godt i gang med å prøve å løfte blikket litt og se fremover. Det vi ser er jo at verden rundt oss har tatt oss igjen på mange områder, og at for eksempel SpringBoot dekker veldig mye av det vi har forsøkt å løse selv. Det har vært en solid modning av åpen kildekode tredjepartsløsninger som vi nå kan dra nytte av i stedet for å bruke utviklingsressurser på å lage mye selv.
 
 ###### Anders: TODO: Egen kontainer-slide

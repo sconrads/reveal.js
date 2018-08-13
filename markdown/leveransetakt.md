@@ -2,9 +2,9 @@
 
 Fra 30 til 230 utviklere
 
+
 notes:
 ###### Stian:
-
 Når man går **fra 30 til 230 personer** øker antall kodelinjer som skrives tilsvarende. Det blir **ikke** lenger mulig for enkeltpersoner å ha **oversikt** over hva som ramler ut hver uke. Selv om noen prøver. Det er ikke heller mulig å ha oversikt over hvilke appllikasjoner som finnes når det blir 130 av disse. Og det er heller ikke meningen. Det gir **ingen mening** å ha en oversikt over **hvordan** de enkelte teamene **samler funksjonalitet i applikasjoner**. 
 
 ###### Anders:
