@@ -9,7 +9,6 @@
 
 notes:
 ###### Anders:
-
 Hva skjer så når man får en haug med applikasjoner som skal i produksjon hele tiden?
 Jo, **Drift blir lei** av å kjøre yum install. 
 

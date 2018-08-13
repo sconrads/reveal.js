@@ -3,7 +3,6 @@
 
 notes:
 ###### Anders:
-
 En av de tingene vi føler har fungert for oss er å **standardisere**, spesielt struktur på applikasjonene men også utviklingsmiljøet. Det gir oss en **gjenkjennelseseffekt** som vi tror har vært viktig, og ikke minst så har det gjort at automatiseringen vi har gjort i ettertid har vært enklere. Når det er sagt så står teamene ganske fritt til å eksperimentere, og det blir gjort.
 
 ###### Stian:

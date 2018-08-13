@@ -2,9 +2,9 @@
 
 Noe styring på tvers er nødvendig
 
+
 notes:
 ###### Anders:
-
 Selv om vi etterhvert har ganske så **autonome team** og vi ønsker å utnytte Conways lov slik at vi **ikke** får **tette koblinger** mellom applikasjonen, har vi noen fellesarenaer:
 * Faggrupper
     * Vi har selvfølgelig **faggrupper**. De spenner bredt og man kan være med i så mange grupper man ønsker. De er veldig **løst organisert** og velger selv hvordan de ønsker å jobbe. 

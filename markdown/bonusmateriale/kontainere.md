@@ -7,7 +7,6 @@ Vi snakker litt om hvorfor dette har vært så vanskelig.
 * Ekstremt viktig for oss for utvikling
 
 
-
 notes:
 ###### Anders:
 

@@ -2,6 +2,7 @@
 
 Talk til Glenn
 
+
 notes:
 * Fire frontendteknologier
 * Mange teknologier, lag en reisegreie
