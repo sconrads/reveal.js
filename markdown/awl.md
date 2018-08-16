@@ -3,6 +3,8 @@
 #### Erfaring:
 - Dagens applikasjoner er mikro-monolitter
 
+TODO: Bilde: Noe som eser ut over det som er tenkt, f.eks. en deig..?
+
 #### Tiltak:
 - Lag skyklare applikasjoner som kun støtter ønskede teknologier
 
@@ -23,7 +25,7 @@ Vi jobbet frem denne arkitekturen gjennom en del **innledende workshops**. Vider
 For å sikre at applikasjonene våre er klare for skyen, så har vi sett på **12 factor apps** sine krav. Applikasjonene er **tilstandsløse**, logging skjer til **standard out** og **konfigurasjonen** er en del av **kildekoden**.
 
 ###### Anders:
-Da vi laget **mikro-monolitt** arkitekturen var dette et stort stykke arbeid med mange involverte. Også kalt **prosjekt**. Denne gang er det Anders og meg som koder frem en applikasjon på ny arkitektur som en del av **vanlig forvaltning**. 
+Da vi laget **mikro-monolitt**-arkitekturen var dette et stort stykke arbeid med mange involverte. Også kalt **prosjekt**. Denne gang er det Stian og meg som koder frem en applikasjon på ny arkitektur som en del av **vanlig forvaltning**. 
 Det er **ikke så mye vi lager** selv denne gang. Mye av jobben er å trekke ut det som er  av felleskode i **biblioteker**, samtidig som vi har høyt **fokus på avhengigheter** mellom disse. 
 Personlig tror jeg dette er siste gang vi lager en felles applikasjonsarkitektur. Neste gang kan det være godt nok å si at appen skal følge kravene i 12 factor app. 
 
