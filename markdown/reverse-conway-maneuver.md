@@ -1,6 +1,20 @@
 ### Reverse Conway maneuver
 
-Legger til rette for horisontal skalering
+<style>
+    html.conway body {
+        background:url("img/conway.png");
+        background-position:center;
+        background-size: 100%;
+    }
+    html.conway h4 {
+        background-color: rgba(255,255,255,0.8);
+    }
+    html.conway h3 {
+        background-color: rgba(255,255,255,0.8);
+    }
+</style>
+
+#### Legger til rette for horisontal skalering
 
 
 notes:
