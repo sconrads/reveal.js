@@ -24,7 +24,17 @@
     <body>
         <div class="reveal">
             <div class="slides">
-                <section>
+                <section data-background="img/stille_vann.jpg" data-state="forside">
+                    <style>
+                        html.forside body {
+                            background:url("img/stille_vann.jpg");
+                            background-position:center;
+                            background-size: 100%;
+                        }
+                        html.forside h2 {
+                            background-color: rgba(255,255,255,0.5);
+                        }
+                    </style>
 
                     <h4>Breaking the Monolith @ SpareBank 1:</h4>
                     <h2>Reisen videre</h2>
@@ -56,8 +66,19 @@
                         </aside>
                 </section>
 
-                <section data-background="img/breaking2015.jpg">
-                    <h2>Breaking the Monolith - 2015</h2>
+                <section data-background="img/breaking2015.jpg" data-state="intro">
+                    <style>
+                        html.intro body {
+                            background:url("img/breaking2015.jpg");
+                            background-position:center;
+                            background-size: 100%;
+                        }
+                        html.intro h2 {
+                            background-color: rgba(255,255,255,0.5);
+                        }
+                    </style>
+                    <h2>Breaking the Monolith</h2>
+                    <h2>JavaZone 2015</h2>
                     <aside class="notes">
                         <h6>Stian:</h6>
                         <p>Tre år siden sist, hvertfall 6 år totalt, og det har vært litt av en reise</p>
@@ -99,6 +120,7 @@
                 <section data-markdown="markdown/samarbeid.md"></section>
 
                 <section data-markdown="markdown/standardisering.md"></section>
+                <section data-markdown="markdown/bob.md"></section>
                 <section data-markdown="markdown/malbilde.md"></section>
                 <section data-markdown="markdown/modning.md"></section>
 
