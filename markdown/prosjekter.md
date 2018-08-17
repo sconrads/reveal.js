@@ -8,6 +8,7 @@ notes:
 Større endringer kalles ofte **prosjekter**. Og hos oss som hos mange andre, ble slike prosjekter gjerne løst av en egen gjeng med utviklere. Deretter ble koden **levert til forvaltning**.
 Vi har brent oss tilstrekelig mange ganger på denne måten å lage løsninger på til at vi ikke lenger har noen tro på denne modellen. 
 Teamene løser nå selv prosjektene. Prosjektene kan ofte brytes opp, og ny funksjonalitet kan **gradvis leveres til produksjon** fra dag en. Koden er med en gang i forvaltning og vi kan **lære av koden** vi allerede har levert.  
+Og ikke minst, vi reduserer risikoen noe enormt da vi leverer små endringer ofte.
 Vi har også, etter min mening, brent oss på å lage **feature team**. Jeg er velig lite glad i et slikt bregrep fordi jeg mener alle må jobbe med forvaltning. Nettopp fordi koden skal fortest mulig ut i produksjon. Da er den i forvaltning. Så får vi faktisk vite om koden fungerer som den skal. 
 
 ###### Anders:

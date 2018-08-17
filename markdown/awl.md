@@ -20,7 +20,9 @@ Når vi nå lager en **ny applikasjonsarkitektur** kutter vi båndet til alle **
 For å slippe å lage og vedlikeholde en masse rammeverkskode, så har vi, som de fleste andre, valgt å basere oss på **Spring Boot**. Så kan man diskutere til man blir blå i ansiktet om det er lurt, men for oss ser det ut til å gjøre susen. Vi slipper å finne opp hjulet på nytt og **utviklerne hos oss kjenner Boot**. 
 
 ###### Stian:
-Vi jobbet frem denne arkitekturen gjennom en del **innledende workshops**. Videre drar vi ut noen applikasjoner i produksjon for å **validere arkitekturen**. På sikt lager vi nok en **templating** mekanisme for å spy ut flere applikasjoner. 
+Vi jobbet frem denne arkitekturen gjennom noen **innledende workshops**. Videre utviklet Anders og jeg en applikasjon for å **validere arkitekturen**. På sikt lager vi nok en **templating** mekanisme for å spy ut flere applikasjoner. 
+
+Forrige applikasjonsarkitektur ble dradd frem gjennom et større prosjektinitiativ. Nå vi dette som en del av vanlig forvaltning. 
 
 For å sikre at applikasjonene våre er klare for skyen, så har vi sett på **12 factor apps** sine krav. Applikasjonene er **tilstandsløse**, logging skjer til **standard out** og **konfigurasjonen** er en del av **kildekoden**.
 
