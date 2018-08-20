@@ -13,7 +13,7 @@
 
 notes:
 ###### Anders:
-I 2015 snakket vi om "strangler pattern", men på norsk føles det å kvele en monolitt mer som å **spise en elefant, en bit av gangen**. Noen ganger har vi tatt en litt større bit, og andre en liten. Etter de første testene av konseptet har vi i stor grad tatt skjermbilder som har **høy endringstakt**, eller som har hatt en **forestående endring**. Da sitter vi igjen med en liten haug med skjermbilder ingen vil ha, eller som man regner med råtner og forsvinner helt av seg selv til slutt.
+I 2015 snakket vi om **"strangler pattern"**. Det handler om at vi gradvis **kveler den gamle monolitten** ved å overta use-case etter use-case. Vi begynte forsiktig ved å teste konseptet vårt på ett use-case, også har vi gradvis utvidet og **økt takten** etterhvert som erfaringene ble bedre, teamene ble flere, og prosessen i det hele tatt har blitt mer rutine. Vi har i stor grad tatt use-case som har **høy endringstakt**, eller som uansett har hatt en **forestående endring**. Nå til slutt sitter vi igjen med en liten haug med skjermbilder ingen egentlig vil ha, eller som man regnet med råtnet og forsvant av seg selv.
 
 ###### Stian:
 Denne strategien har fungert godt, og gitt stor grad av **frihet og fleksibilitet** til de enkelte teamene som har kunnet utfase og migrere skjermbildene i den rekkefølgen de har ønsket. Det betyr også at de i mange tilfeller har **prioritert ny funksjonalitet høyere**
