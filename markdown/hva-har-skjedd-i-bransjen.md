@@ -1,5 +1,15 @@
 ### Hva har skjedd i finansbransjen?
 
+<style>
+    html.spink body {
+        background:url("img/spink_filminnspilling.jpg");
+        background-position:center;
+        background-size: 100%;
+    }
+    html.spink h3 {
+        background-color: rgba(255,255,255,0.8);
+    }
+</style>
 
 notes:
 ###### Anders:
