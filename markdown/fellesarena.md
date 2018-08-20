@@ -1,6 +1,20 @@
 ### Fellesarena
 
-Noe styring på tvers er nødvendig
+<style>
+    html.workshop body {
+        background:url("img/workshop.jpg");
+        background-position:center;
+        background-size: 100%;
+    }
+    html.workshop h3 {
+        background-color: rgba(255,255,255,0.8);
+    }
+    html.workshop h4 {
+        background-color: rgba(255,255,255,0.8);
+    }
+</style>
+
+#### Noe styring på tvers er nødvendig
 
 
 notes:

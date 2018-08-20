@@ -1,19 +1,16 @@
-### Bob
-
 <style>
-html, body {
-    height: 100%;
-}
-
-img.bob {
-    height: 50%;
-    width: 50%;
-}
+    html.bob body {
+        background:url("img/eirik.jpg");
+        background-position:center;
+        background-size: 100%;
+    }
+    html.bob h3 {
+        background-color: rgba(255,255,255,0.8);
+    }
+    html.bob h4 {
+        background-color: rgba(255,255,255,0.8);
+    }
 </style>
-
-<img class="bob" src="img/eirik_bob.jpg" />
-
-#### Groruddal-style
 
 notes:
 ###### Stian:
