@@ -30,30 +30,3 @@ For å sikre at applikasjonene våre er klare for skyen, så har vi sett på **1
 Da vi laget **mikro-monolitt**-arkitekturen var dette et stort stykke arbeid med mange involverte. Også kalt **prosjekt**. Denne gang er det Stian og meg som koder frem en applikasjon på ny arkitektur som en del av **vanlig forvaltning**. 
 Det er **ikke så mye vi lager** selv denne gang. Mye av jobben er å trekke ut det som er  av felleskode i **biblioteker**, samtidig som vi har høyt **fokus på avhengigheter** mellom disse. 
 Personlig tror jeg dette er siste gang vi lager en felles applikasjonsarkitektur. Neste gang kan det være godt nok å si at appen skal følge kravene i 12 factor app. 
-
-
-###### Opprinnelige notater:
-
-* workshops ønsker
-* boot
-* templatebasert til api
-* industristandarder
-
-* Jobbet frem en ny arkitektur
-  * Workshops
-  * Arkitekturmøtet
-  * Spring Boot og lage alt selv (ail)
-    * drodle litt på pros and cons
-    * kunnskap og kjennskap til Boot
-    * stack overflow
-    * standardisering av det alle uansett må gjøre
-      * ikke lage ting som ikke gir oss verdi / finne opp hjulet på nytt
-    * Spring igjen...
-    * Boot gjør mye av det vi tidligere har gjort selv
-      * Det meste er laget tidligere
-  * 12 factor apps
-    * Hystrix / Resilijence4j
-  * Slipper å lage dette selv nå
-  * Få opp en app kjapt for å validere i produksjon
-  * Etter andre applikasjon, lage en template
-  * Gjøres som vanlig forvaltning, ikke som et stort prosjekt
