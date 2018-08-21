@@ -15,7 +15,7 @@ notes:
 ###### Anders:
 Så; hva har egentlig skjedd siden sist?
 * **FinTech** har blitt et begrep, og med det et mylder av nye aktører som vil ha en bit av kaka
-* **PSD2** - **“Betalingstjenestedirektivet”** fra EU som Norge også innfører via EØS-avtalen gjør at alle banker må åpne opp slik at tredjeparter kan gjennomføre blant annet betalinger
+* **PSD2** - Nye regler fra EU i form av **“Betalingstjenestedirektivet”** medfører at alle banker må åpne opp slik at tredjeparter kan **gjennomføre betalinger og få innsyn i transaksjonser**
 * I Norge har vi hatt tradisjon for **samarbeid om basis-infrastrukturen** som BankAxept og BankId og det har gitt gode nasjonale bankløsninger, men de siste årene har vi sett økende konkurranse på differensierende tjenester som Spink, Spleis og Vipps
 
 Disse utfordringene gjør at også vi må skjerpe oss; vi må kunne jobbe like **smidig som konkurrentene**, vi må forsøke å **innovere** selv og vi må være rigget for å kunne **svare raskt** på nye utfordringer. 
