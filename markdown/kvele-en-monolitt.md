@@ -18,7 +18,7 @@ I 2015 snakket vi om **"strangler pattern"**. Det handler om at vi gradvis **kve
 ###### Stian:
 Denne strategien har fungert godt, og gitt stor grad av **frihet og fleksibilitet** til de enkelte teamene som har kunnet utfase og migrere skjermbildene i den rekkefølgen de har ønsket. Det betyr også at de i mange tilfeller har **prioritert ny funksjonalitet høyere**
 
-Ulempen er at det tar tid, og **verden venter ikke på oss**! Og når vi da også velger å prøve å holde følge med verden, så sitter man igjen med en **lengre periode med blanding av ny og gammel teknologi**. For oss har det vært en ulempe på mange måter.
+Ulempen er at det tar tid, og **verden venter ikke på oss**! Og når vi da også velger å prøve å holde følge med verden, så sitter man igjen med en **lengre periode med blanding av ny og gammel teknologi, kanskje til og med flere generasjoner gammel teknologi**. For oss har det vært en ulempe på mange måter.
 
 
 ###### Copyright Les Williams
