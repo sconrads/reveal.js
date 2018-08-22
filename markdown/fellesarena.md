@@ -2,7 +2,7 @@
 
 <style>
     html.workshop body {
-        background:url("img/workshop.jpg");
+        background:url("img/workshop2.jpg");
         background-position:center;
         background-size: 100%;
     }

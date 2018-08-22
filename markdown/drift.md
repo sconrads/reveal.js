@@ -1,4 +1,6 @@
-Mange nye applikasjoner skape mye arbeid for Drift
+Mange nye applikasjoner skapte mye 
+
+arbeid for Drift
 #### </br> 
 #### Tiltak:
 Drift måtte fristilles fra repetitive standardoppgaver
