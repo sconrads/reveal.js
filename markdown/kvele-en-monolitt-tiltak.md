@@ -1,6 +1,8 @@
 #### Tiltak:
-* Behold høyt fokus på å kode bort monolitten
-* Vurder nøye hvilke teknologier man beholder
+#### </br> 
+Behold høyt fokus på å kode bort monolitten
+#### </br> 
+Vurder nøye hvilke teknologier man beholder
 
 
 notes:

@@ -1,10 +1,9 @@
-### Mobilbankutvikling
+Kundene forventer å kunne gjøre alt i vår mest populære kanal
 
-#### Erfaring:
-- Kundene forventer å kunne gjøre alt i vår mest populære kanal
-
+#### </br>
+ 
 #### Tiltak:
-- Distribuer utviklingen til domeneteamene
+Distribuer utviklingen til domeneteamene
 
 
 notes:
