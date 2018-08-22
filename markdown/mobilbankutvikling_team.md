@@ -11,7 +11,7 @@ img.mobil {
 }
 </style>
 
-<img class="mobil" src="img/mobilbank_team.png" />
+<img class="mobil" src="img/mobilbank_team.png" style="border:3px solid grey"/>
 
 notes:
 ###### Stian:
