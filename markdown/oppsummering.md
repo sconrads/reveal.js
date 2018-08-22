@@ -1,8 +1,3 @@
-# Hva er det viktigste vi har lært?
-
-#### Mål
-#### Involvering
-#### Læring
-#### Fokus
+### Oppsummering
 
 notes:
