@@ -1,4 +1,4 @@
-### Optimus
+<img alt="Optimus" class="img-inline stretch" data-src="img/team_optimus_logo.png" style="border:3px solid grey"/>
 
 "Å hjelpe teamene til å levere godt."
 
