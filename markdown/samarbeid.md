@@ -1,10 +1,10 @@
-### Workshopdrevet arkitektur
+Ikke alle forstod hvorfor vi ønsket å gå over til en distribuert arkitektur
 
-#### Erfaring:
-- Ikke alle forstod hvorfor vi ønsket å gå over til en distribuert arkitektur
+#### </br> 
+  
 
 #### Tiltak:
-- Skap arkitekturen gjennom bruk av workshops
+Skap arkitekturen gjennom bruk av workshops
 
 
 notes:

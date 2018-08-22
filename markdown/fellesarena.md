@@ -2,15 +2,17 @@
 
 <style>
     html.workshop body {
-        background:url("img/workshop.jpg");
+        background:url("img/workshop2.jpg");
         background-position:center;
         background-size: 100%;
     }
     html.workshop h3 {
         background-color: rgba(255,255,255,0.8);
+        color: #002776;
     }
     html.workshop h4 {
         background-color: rgba(255,255,255,0.8);
+        color: #002776;
     }
 </style>
 

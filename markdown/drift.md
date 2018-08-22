@@ -1,10 +1,9 @@
-### Drift
+Mange nye applikasjoner skapte mye 
 
-#### Erfaring:
-- Mange nye applikasjoner skape mye arbeid for Drift
-
+arbeid for Drift
+#### </br> 
 #### Tiltak:
-- Drift måtte fristilles fra repetitive standardoppgaver
+Drift måtte fristilles fra repetitive standardoppgaver
 
 
 notes:
