@@ -1,6 +1,22 @@
+<style>
+    html.estimering body {
+        background:url("img/bob_work_begin.jpg");
+        background-position:center;
+        background-size: 100%;
+    }
+    html.estimering h3 {
+        background-color: rgba(255,255,255,0.8);
+        color: #002776;
+    }
+    html.estimering h4 {
+        background-color: rgba(255,255,255,0.8);
+        color: #002776;
+    }
+</style>
+
 ### Estimering
 
-Forutsigbarhet gjennom små leveranser
+#### Forutsigbarhet gjennom små leveranser
 
 
 notes:
