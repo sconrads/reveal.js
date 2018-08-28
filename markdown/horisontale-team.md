@@ -1,6 +1,20 @@
 ### Horisontale team
 
-...men vi organiserer oss også rundt teknologi
+<style>
+    html.horisontal body {
+        background:url("img/bob_work_begin.jpg");
+        background-position:center;
+        background-size: 100%;
+    }
+    html.horisontal h3 {
+        background-color: rgba(255,255,255,0.8);
+        color: #002776;
+    }
+    html.horisontal h4 {
+        background-color: rgba(255,255,255,0.8);
+        color: #002776;
+    }
+</style>
 
 
 notes:

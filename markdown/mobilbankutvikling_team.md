@@ -15,4 +15,4 @@ img.mobil {
 
 notes:
 ###### Stian:
-Vi valgte derfor å etablere et **nytt team** som fikk i oppgave å gjøre de andre teamene **supre på mobilbankutvikling**. Det har fungert over all forventing. Mobilbanken har faktisk blitt ratet enda bedre på App Store nå. Og vi kan nå utvikle alt med fokus på mobil først. 
+Vi valgte derfor å etablere et **nytt team** som fikk i oppgave å gjøre de andre teamene **supre på mobilbankutvikling**. Det har fungert over all forventing. Mobilbanken har faktisk blitt ratet enda bedre på App Store nå. 80000 har gitt 4,6. Og vi kan nå utvikle alt med fokus på mobil først. 
