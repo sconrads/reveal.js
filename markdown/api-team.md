@@ -1,6 +1,23 @@
+<style>
+    html.api body {
+        background:url("img/Barn_Spink.jpg");
+        background-position:center;
+        background-size: 100%;
+    }
+    html.api h3 {
+        background-color: rgba(255,255,255,0.8);
+        color: #002776;
+    }
+    html.api h4 {
+        background-color: rgba(255,255,255,0.8);
+        color: #002776;
+    }
+</style>
+
+
 ### API team
 
-"API first"
+#### "API first"
 
 
 notes:

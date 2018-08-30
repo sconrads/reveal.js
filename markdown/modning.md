@@ -1,3 +1,15 @@
+<style>
+    html.modning body {
+        background:url("img/modning.jpg");
+        background-position:center;
+        background-size: 100%;
+    }
+    html.modning h3 {
+        background-color: rgba(255,255,255,0.8);
+        color: #002776;
+    }
+</style>
+
 ### Modning
 
 

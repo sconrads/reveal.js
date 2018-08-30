@@ -1,3 +1,15 @@
+<style>
+    html.maalbilde body {
+        background:url("img/maalbilde.jpg");
+        background-position:center;
+        background-size: 100%;
+    }
+    html.maalbilde h3 {
+        background-color: rgba(255,255,255,0.8);
+        color: #002776;
+    }
+</style>
+
 ### Målbilde
 
 
