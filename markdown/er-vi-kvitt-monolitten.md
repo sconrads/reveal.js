@@ -1,3 +1,15 @@
+<style>
+    html.monolitten body {
+        background:url("img/Familiebanken.jpg");
+        background-position:center;
+        background-size: 100%;
+    }
+    html.monolitten h3 {
+        background-color: rgba(255,255,255,0.8);
+        color: #002776;
+    }
+</style>
+
 ### Er vi kvitt monolitten?
 
 

@@ -1,6 +1,6 @@
 <style>
     html.estimering body {
-        background:url("img/bob_work_begin.jpg");
+        background:url("img/estimering.jpg");
         background-position:center;
         background-size: 100%;
     }
