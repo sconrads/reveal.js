@@ -1,4 +1,4 @@
-### Etabler målbilde
+### Stak ut en retning
 
 
 

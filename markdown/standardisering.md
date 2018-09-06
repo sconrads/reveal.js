@@ -1,4 +1,4 @@
-### Felles standardisering
+### Standardisering
 
 
 notes:

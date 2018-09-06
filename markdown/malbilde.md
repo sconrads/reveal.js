@@ -10,7 +10,7 @@
     }
 </style>
 
-### Målbilde
+### Vis retning
 
 
 notes:
